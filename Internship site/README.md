@@ -1,15 +1,15 @@
-## Apply over 50 plus job for internship some of those
+# Apply over 50 plus job for internship some of those
 
-# Microsoft careers Portal
+## Microsoft careers Portal
 
-# Google careers Portal
+## Google careers Portal
 
-# Naukri.com
+## Naukri.com
 
-# Intershale
+## Intershale
 
-# Angel List
+## Angel List
 
-# Linked List 
+## Linked List 
 
-# Directly with Recruiters & Employees
+## Directly with Recruiters & Employees
