@@ -32,7 +32,7 @@
 
 ```markdown
 9.  End to End
-10. alteast 2-3
+10. alteast 2-3 projects
 ```
 
 **MERN**
