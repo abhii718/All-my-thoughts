@@ -1,0 +1,8 @@
+have to study these for making a Project
+
+1. J query
+2. Mongooes
+3. MongDB 
+what is cdn link? let me know
+4. Middleware
+5. Handlebars
